@@ -110,6 +110,30 @@ margin-left: 20px;
 
         }
 
-    
+        
+
+        .bar{
+
+          display: flex;
+
+          background-color: black;
+
+          position: fixed;
+
+          padding: 20px 10px;
+
+          margin-left: -55px;
+
+          width: 400px;
+
+        }
+
+    .ic{
+
+      width: 35px;
+
+      margin-left: 60px;
+
+    }
 
     
