@@ -126,14 +126,72 @@ margin-left: 20px;
 
           width: 400px;
 
+          margin-top: 10px;
+
         }
 
     .ic{
 
-      width: 35px;
+      width: 30px;
 
       margin-left: 60px;
 
+       margin-top: -10px;
+
     }
+
+    .noti{
+
+      position: absolute;
+
+            margin-left: 280px;
+
+       margin-top: -670px;
+
+    }
+
+    .nti{
+
+      width: 30px;
+
+height: 30px;
+
+background-color: ;
+
+ background-color: rgba(0, 0, 200, 0.2);
+
+ padding: 5px 5px;
+
+ border-radius: 50px;
+
+    }
+
+  .nott{
+
+    width: 15px;
+
+height: 15px;
+
+color: white;
+
+ background-color: rgba(255, 0, 0, 1);
+
+ padding: 3px 3px;
+
+ border-radius: 50px;
+
+ text-align: center;
+
+ font-weight: bold;
+
+ position: absolute;
+
+   margin-left: 30px;
+
+       margin-top: -46px;
+
+       font-size: 5;
+
+  }
 
     
