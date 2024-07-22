@@ -10,6 +10,8 @@
 <body>
     
 <div class="par">
+    <button onclick="openSnapchat()">Open Snapchat</button>
+<button onclick="openWhatsApp()">Open WhatsApp</button>
     <div class="stool">
         <input type="text" placeholder="    Search.......">
         <img src="search.png" alt="">
@@ -52,5 +54,16 @@
       <div class="nott">2</div>
     </div>
 </div>
+    <script>
+        function openSnapchat() {
+            window.location.href = 'snapchat://'; // Opens the Snapchat app
+        }
+        
+        function openWhatsApp() {
+            window.location.href = 'whatsapp://send?phone=+233 59 802 3302'; // Replace 1234567890 with the phone number you want to message
+        }
+        
+        
+    </script>
 </body>
 </html>
